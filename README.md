@@ -1,7 +1,5 @@
 # Anuvadini MagicEye OCR
 
-> This repository contains documentation only — no code and no weights.
-
 MagicEye is Anuvadini's document vision-language model for OCR and document understanding across the 22 scheduled Indian languages and English. It is trained by Anuvadini and runs in production on Anuvadini's on-premises GPU servers.
 
 ## Architecture
